@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ### 🔁 Clone the Repository
 
-bash
+
 git clone https://github.com/Gokulraj-max/Lara_Voice_Assistant.git
 cd Lara_Voice_Assistant
 
@@ -62,20 +62,20 @@ cd Lara_Voice_Assistant
 
 #### 🪟 Windows
 
-bash
+
 pip install -r requirements.txt
 
 
 #### 🐧 Linux
 
-bash
+
 sudo apt-get install python3-tk python3-pyaudio vlc
 pip install -r requirements.txt
 
 
 #### 🍎 macOS
 
-bash
+
 brew install python-tk portaudio vlc
 pip install -r requirements.txt
 
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 After installation, run the assistant:
 
-bash
+
 python main.py
 
 
