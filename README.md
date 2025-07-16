@@ -113,6 +113,7 @@ Make sure your microphone is working. Say *"Lara"* to activate her.
 
 
 Lara_Voice_Assistant/
+
 ├── main.py
 
 ├── music/
