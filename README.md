@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 bash
 git clone https://github.com/Gokulraj-max/Lara_Voice_Assistant.git
-cd voice-assistant-lara
+cd Lara_Voice_Assistant
 
 
 ---
