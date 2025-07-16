@@ -112,7 +112,7 @@ Make sure your microphone is working. Say *"Lara"* to activate her.
 ## 📁 Project Structure
 
 
-voice-assistant-lara/
+Lara_Voice_Assistant/
 ├── main.py
 ├── music/
 ├── memory.txt
