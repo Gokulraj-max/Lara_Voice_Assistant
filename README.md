@@ -4,7 +4,8 @@
 Lara is a cross-platform intelligent voice assistant built using Python. It listens to your commands and performs tasks like playing music, opening applications, telling jokes, reading news, setting alarms, and more—all through natural voice commands.
 
 ---
-
+![Lara UI Preview](screenshot/lara.jpg)
+---
 ## 🚀 Features
 
 - Voice-activated assistant with GUI using Tkinter
@@ -151,9 +152,3 @@ Pull requests are welcome! Feel free to:
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## ✨ Author
-
-Made with ❤️ by **Gokul Raj**
