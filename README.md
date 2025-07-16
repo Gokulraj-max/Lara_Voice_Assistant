@@ -116,10 +116,6 @@ Lara_Voice_Assistant/
 
 ├── main.py
 
-├── music/
-
-├── memory.txt
-
 ├── requirements.txt
 
 └── README.md
