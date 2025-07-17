@@ -166,8 +166,8 @@ def listen_command():
 
 def send_email(to_email, subject, body):
     try:
-        EMAIL = "gokuls0607@gmail.com"
-        PASSWORD = "ghcn jlgb ceah bzvu"
+        EMAIL = "YOUR-EMAIL-ID"
+        PASSWORD = "PASSWORD"
         msg = EmailMessage()
         msg["From"] = EMAIL
         msg["To"] = to_email
