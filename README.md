@@ -1,6 +1,7 @@
 # 🎙 Lara - Your Personal Voice Assistant
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70A8D&width=600&lines=Hi+I'm+Lara+-+Your+Voice+Assistant;I+can+play+music+🎵;Open+apps+⚡;Tell+jokes+😂;Read+news+📰;Set+alarms+⏰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70A8D&width=600&lines=Hi+I'm+Lara+-+Your+Voice+Assistant;I+can+play+music+🎵;Open+apps+⚡;Tell+jokes+😂;Read+news+📰;Set+alarms+⏰;and+more..!)](https://git.io/typing-svg)
+
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()  
