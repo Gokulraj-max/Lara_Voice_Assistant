@@ -1,5 +1,10 @@
 # 🎙 Lara - Your Personal Voice Assistant
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)]()
+
 Lara is a cross-platform intelligent voice assistant built using Python. It listens to your commands and performs tasks like playing music, opening applications, telling jokes, reading news, setting alarms, and more—all through natural voice commands.
 
 ---
@@ -41,9 +46,9 @@ Lara is a cross-platform intelligent voice assistant built using Python. It list
 
 Install all packages using:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -51,10 +56,10 @@ pip install -r requirements.txt
 
 ### 🔁 Clone the Repository
 
-
+```bash
 git clone https://github.com/Gokulraj-max/Lara_Voice_Assistant.git
 cd Lara_Voice_Assistant
-
+```
 
 ---
 
@@ -62,23 +67,23 @@ cd Lara_Voice_Assistant
 
 #### 🪟 Windows
 
-
+```bash
 pip install -r requirements.txt
-
+```
 
 #### 🐧 Linux
 
-
+```bash
 sudo apt-get install python3-tk python3-pyaudio vlc
 pip install -r requirements.txt
-
+```
 
 #### 🍎 macOS
 
-
+```bash
 brew install python-tk portaudio vlc
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -86,9 +91,9 @@ pip install -r requirements.txt
 
 After installation, run the assistant:
 
-
+```bash
 python main.py
-
+```
 
 Make sure your microphone is working. Say *"Lara"* to activate her.
 
@@ -111,15 +116,12 @@ Make sure your microphone is working. Say *"Lara"* to activate her.
 
 ## 📁 Project Structure
 
-
+```
 Lara_Voice_Assistant/
-
 ├── main.py
-
 ├── requirements.txt
-
 └── README.md
-
+```
 
 ---
 
@@ -129,10 +131,10 @@ Lara_Voice_Assistant/
 2. Generate an *App Password* from [Google App Passwords](https://myaccount.google.com/apppasswords).
 3. Replace the credentials in main.py:
 
-python
+```python
 EMAIL = "your-email@gmail.com"
 PASSWORD = "your-app-password"
-
+```
 
 > ⚠ *Warning:* Never share your credentials publicly. Use environment variables or secure vaults for production.
 
