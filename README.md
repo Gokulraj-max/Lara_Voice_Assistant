@@ -1,9 +1,12 @@
 # 🎙 Lara - Your Personal Voice Assistant
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70A8D&width=600&lines=Hi+I'm+Lara+-+Your+Voice+Assistant;I+can+play+music+🎵;Open+apps+⚡;Tell+jokes+😂;Read+news+📰;Set+alarms+⏰)](https://git.io/typing-svg)
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)]()  
+
 
 Lara is a cross-platform intelligent voice assistant built using Python. It listens to your commands and performs tasks like playing music, opening applications, telling jokes, reading news, setting alarms, and more—all through natural voice commands.
 
